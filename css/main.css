@@ -1,0 +1,160 @@
+.row{
+    flex-wrap: nowrap;
+}
+
+.item-1{
+    min-height: 100px;
+    background: red;
+}
+.item-2{
+    min-height: 100px;
+    background: green;
+}
+.item-3{
+    min-height: 100px;
+    background: blue;
+}
+.item-4{
+    min-height: 100px;
+    background: yellowgreen;
+}
+.item-5{
+    min-height: 50px;
+    background: yellowgreen;
+}
+.item-6{
+    min-height: 50px;
+    background: aqua
+}
+.item-7{
+    min-height: 50px;
+    background: magenta;
+}
+.item-8{
+    min-height: 40px;
+    background: grey;
+}
+.item-9{
+    min-height: 30px;
+    background: firebrick;
+}
+.item-10{
+    min-height: 30px;
+    background: burlywood;
+}
+.item-11{
+    min-height: 30px;
+    background: coral;
+}
+.item-12{
+    min-height: 30px;
+    background: cyan;
+}
+.item-13{
+    min-height: 200px;
+    background: violet;
+}
+.item-14{
+    min-height: 200px;
+    background: navy;
+}
+.item-15{
+    min-height: 200px;
+    background: lawngreen;
+}
+.item-16{
+    min-height: 80px;
+    background: khaki;
+}
+.item-17{
+    min-height: 60px;
+    background: olive;
+}
+.item-18{
+    min-height: 60px;
+    background: indigo;
+}
+.item-19{
+    min-height: 30px;
+    background: palevioletred;
+}
+.item-20{
+    min-height: 30px;
+    background: teal;
+}
+.item-21{
+    min-height: 30px;
+    background: orchid;
+}
+.item-22{
+    min-height: 150px;
+    background: red;
+}
+.item-23{
+    min-height: 150px;
+    background: red;
+}
+.item-24{
+    min-height: 150px;
+    background: red;
+}
+.item-25{
+    min-height: 150px;
+    background: red;
+}
+.item-26{
+    min-height: 60px;
+    background: silver;
+}
+.item-27{
+    min-height: 45px;
+    background: mediumvioletred;
+}
+.item-28{
+    min-height: 45px;
+    background: darkred;
+}
+.item-29{
+    min-height: 45px;
+    background: forestgreen;
+}
+.item-30{
+    min-height: 45px;
+    background: goldenrod;
+}
+.item-31{
+    min-height: 22.5px;
+    background: yellow;
+}
+.item-32{
+    min-height: 22.5px;
+    background: lightcoral;
+}
+.item-33{
+    min-height: 22.5px;
+    background: mediumpurple;
+}
+.item-34{
+    min-height: 22.5px;
+    background: maroon;
+}
+.item-35{
+    min-height: 20px;
+    background: blueviolet;
+}
+.item-36{
+    min-height: 55px;
+    background: hotpink;
+}
+.item-37{
+    min-height: 55px;
+    background: seagreen;
+}
+.item-38{
+    min-height: 20px;
+    background: darkkhaki;
+}
+.item-39{
+    min-height: 100px;
+    background: yellowgreen;
+}
